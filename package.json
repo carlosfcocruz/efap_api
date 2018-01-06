@@ -1,5 +1,5 @@
 {
-  "name": "@efap/api",
+  "name": "efap_api",
   "version": "1.0.0",
   "description": "Easy Fast Production System API - CRUD",
   "main": "index.js",
