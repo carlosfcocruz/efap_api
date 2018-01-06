@@ -1,9 +1,10 @@
 {
-  "name": "efap_api",
+  "name": "@efap/api",
   "version": "1.0.0",
   "description": "Easy Fast Production System API - CRUD",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "npm test"
   },
   "keywords": [
@@ -16,5 +17,9 @@
     "url": "git@github.com:carlosfcocruz/efap_api.git"
   },
   "author": "Carlos Cruz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2"
+  }
 }
