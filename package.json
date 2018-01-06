@@ -1,6 +1,6 @@
 {
   "name": "efap_api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy Fast Production System API - CRUD",
   "main": "index.js",
   "scripts": {
